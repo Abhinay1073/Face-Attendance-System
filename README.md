@@ -18,3 +18,10 @@ This project is a Python-based Face Recognition Attendance System using OpenCV a
 ```bash
 pip install -r requirements.txt
 python attendance.py
+
+
+##Controls
+-Press S to save face during registration
+-Press P for Punch-In
+-Press O for Punch-Out
+-Press Q to Quit
